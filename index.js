@@ -67,4 +67,4 @@ searchForm.addEventListener("submit", searchInput);
 let currentLocationButton = document.querySelector("#current-location-button");
 currentLocationButton.addEventListener("click", getCurrentLocation);
 
-searchCity("Kota Kinabalu");
+searchCity("Kota Kinabalu, Sabah");
